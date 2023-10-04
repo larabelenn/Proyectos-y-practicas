@@ -19,5 +19,3 @@ print("Con ceros a la derecha", numero_ceros_derecha)
 # Separador de miles con coma
 numero_miles= "{:,}".format(numero)
 print("Separado en miles con coma", numero_miles)
-
-

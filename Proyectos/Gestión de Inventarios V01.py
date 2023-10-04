@@ -16,7 +16,7 @@ def vender_producto(nombre, cantidad):
         else:
             print("No hay suficiente cantidad de", nombre)
     else:
-        print(nombre, "no está en el inventario")
+        print(nombre, "No está en el inventario")
 
 # Mostrar el inventario completo
 def mostrar_inventario():
